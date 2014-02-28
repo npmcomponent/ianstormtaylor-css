@@ -1,7 +1,7 @@
 
-var camel = require('to-camel-case')
-  , computed = require('computed-style')
-  , type = require('type');
+var camel = require('ianstormtaylor-to-camel-case')
+  , computed = require('jkroso-computed-style')
+  , type = require('component-type');
 
 
 /**

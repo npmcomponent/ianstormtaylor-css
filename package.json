@@ -1,0 +1,16 @@
+{
+  "name": "ianstormtaylor-css",
+  "description": "Simple CSS manipulation.",
+  "version": "0.3.0",
+  "keywords": [
+    "css",
+    "style",
+    "computed"
+  ],
+  "dependencies": {
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "ianstormtaylor-to-camel-case": "git://github.com/npmcomponent/ianstormtaylor-to-camel-case.git",
+    "jkroso-computed-style": "git://github.com/npmcomponent/jkroso-computed-style.git"
+  },
+  "license": "MIT"
+}
